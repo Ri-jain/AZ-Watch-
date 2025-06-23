@@ -31,13 +31,13 @@ Cluster 0: Low engagement — highest churn risk
 Cluster 1: Moderate use — opportunity to upsell
 Cluster 2: Frequent visits — personalize content
 
-Visualized Results: Confusion matrix and cluster analysis
+-Visualized Results: Confusion matrix and cluster analysis
 
 
 Results
-Achieved 91% accuracy using Logistic Regression
-Identified 3 subscriber segments with unique behaviors
-Proposed targeted retention strategies per segment
+-Achieved 91% accuracy using Logistic Regression
+-Identified 3 subscriber segments with unique behaviors
+-Proposed targeted retention strategies per segment
 
 
 
