@@ -24,7 +24,7 @@ Action Steps:
 - Trained 3 Classification Models:
 Logistic Regression outperformed others with 91% accuracy
 
--I nterpreted Churn Drivers: Identified low engagement time and frequency as key indicators
+- Interpreted Churn Drivers: Identified low engagement time and frequency as key indicators
 
 - Segmented Users via KMeans:
 Cluster 0: Low engagement — highest churn risk
